@@ -1,2 +1,5 @@
 Fork此仓库
-到Settings→Secrets→Actions 添加一项名为cookies的参数，内容为论坛的Cookie
+到Settings→Secrets→Actions 
+添加一项名为cookies的参数，内容为论坛的Cookie
+添加一项名为url的参数，内容为签到的地址
+脚本通过get方式模拟用户签到
