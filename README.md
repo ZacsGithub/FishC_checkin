@@ -1,1 +1,2 @@
-# FishC_checkin
+Fork此仓库
+到Settings→Secrets→Actions 添加一项名为cookies的参数，内容为论坛的Cookie
