@@ -36,5 +36,6 @@ jobs:
       - name: Run sign
         env:
           cookies: ${{ secrets.cookies }}
+          url: ${{ secrets.url }}
         run: |
           python3 ./main.py
